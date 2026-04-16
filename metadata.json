@@ -1,0 +1,6 @@
+{
+  "name": "VoxelCraft Mobile",
+  "description": "A mobile-first 2D pixel art to 3D voxel model creator with layer management and object-based coloring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
